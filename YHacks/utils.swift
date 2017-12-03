@@ -2,10 +2,10 @@
 import Foundation
 import UIKit
 import CoreLocation
-let clientID:String = "c6257d08db2940eb93d0762285ba7336"
-let clientSecred:String = "185e9b81a080488f927205809d342172"
+let clientID:String = " "
+let clientSecred:String = " "
 let redirectURI:String = "https://elfsight.com/service/generate-instagram-access-token/"
-let accessToken:String = "1460375259.e029fea.9ce0f615005b4234a9ea7ce3ffe0d243"
+let accessToken:String = " "
 var ourLocation:CLLocation!
 var arrOfImgs = [imgCache]()
 
